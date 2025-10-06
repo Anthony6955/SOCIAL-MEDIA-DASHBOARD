@@ -1,10 +1,10 @@
 # SOCIAL-MEDIA-DASHBOARD
 ## Table of Content
 - [Project Overview](Project-Overview)
-- [Objectives](Objectives-)
-- [Process](Process-)
-- [Tools and Tecniques Used](Tools-)
-- [Key Insights](KeyInsights-)
+- [Objectives](Objectives)
+- [Process](Process)
+- [Tools and Tecniques Used](Tools)
+- [Key Insights](KeyInsights)
 ### Project Overview
 This project focuses on analyzing and visualizing **social media performance metrics** across major platforms - Facebook, Instagram, TikTok, WhatsApp, Snapchat, Twitter (X), and YouTube.  
 
